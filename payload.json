@@ -59,7 +59,7 @@
   },
   "serviceAccounts": [
     {
-      "email": "75119591801-compute@developer.gserviceaccount.com",
+      "email": "service-75119591801@gcp-sa-cloudbuild.iam.gserviceaccount.com",
       "scopes": [
         "https://www.googleapis.com/auth/devstorage.read_only",
         "https://www.googleapis.com/auth/logging.write",
